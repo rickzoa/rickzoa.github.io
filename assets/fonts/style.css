@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Paskowy';
+   font-display: swap;
+   src: url('Paskowy/font.ttf');
+}
+@font-face {
+   font-family: 'TeleSys';
+   font-display: swap;
+   src: url('TeleSys/font.ttf');
+}
